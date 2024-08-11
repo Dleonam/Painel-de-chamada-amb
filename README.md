@@ -23,6 +23,7 @@ Após essas mudanças no código Python, iremos para a configuração da parte v
 Nessa parte, você colocará a pasta painel-de-chamadas-cliente. Dentro da pasta htdocs do sem apache, após isso iremos editar o PHP para ele conectar ao mesmo banco de dados que você setou lá no código em Python. 
 
 ![image](https://github.com/user-attachments/assets/476e9331-70c9-49dc-8306-a7b75f41dffd)
+
 A FUNÇAO DO PHP AQUI É SINCRONIZAR COM A CONEXÃO DO BANCO. 
 
 No meu caso, somente joguei os aquivos na pasta Htdocs, mas vocês, por boas práticas e organização, coloquem em uma pasta separando os arquivos já pré-existentes do apache.
